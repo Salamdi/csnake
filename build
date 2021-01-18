@@ -1,0 +1,5 @@
+#!/bin/bash
+gcc -Wall -g -c field.c
+gcc -Wall -g -lncurses -lc field.o snake.c -o snake
+./snake 40 20
+
