@@ -1,5 +1,6 @@
 ## Usage
 * clone the repository
+* `cd csnake`
 * `./build`
 
 Building script automatically runs the game.
